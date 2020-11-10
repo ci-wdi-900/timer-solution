@@ -64,6 +64,3 @@ console.log('\u0007');
 //     console.log('\u0007');
 //     console.log(message);
 // }, ms)
-
-// version 7
-// TODO
